@@ -1,0 +1,16 @@
+﻿global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using CasaDoCodigo.Domain.Data;
+global using CasaDoCodigo.Infrastructure.Context;
+global using System.Linq.Expressions;
+global using CasaDoCodigo.Infrastructure.Identity.Models;
+global using Microsoft.Extensions.Options;
+global using Microsoft.IdentityModel.Tokens;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Claims;
+global using System.Text;
+global using CasaDoCodigo.Domain.Categorias;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using CasaDoCodigo.Domain.Produtos;
+global using CasaDoCodigo.Infrastructure.Repositories.Generic;

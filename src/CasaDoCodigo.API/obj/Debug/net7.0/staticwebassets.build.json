@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "j07YDCZ2177ULS6t6mpvM4jXG4Tt18UzSV+ZpEiCm3o=",
+  "Source": "CasaDoCodigo.API",
+  "BasePath": "_content/CasaDoCodigo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CasaDoCodigo.API\\wwwroot",
+      "Source": "CasaDoCodigo.API",
+      "ContentRoot": "D:\\Projectos\\Web\\desafios\\CasaDoCodigo\\src\\CasaDoCodigo.API\\wwwroot\\",
+      "BasePath": "_content/CasaDoCodigo.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\bin\Debug\net7.0\CasaDoCodigo.Domain.deps.json
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\bin\Debug\net7.0\CasaDoCodigo.Domain.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\bin\Debug\net7.0\CasaDoCodigo.Domain.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\CasaDoCodigo.Domain.csproj.AssemblyReference.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\CasaDoCodigo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\CasaDoCodigo.Domain.AssemblyInfoInputs.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\CasaDoCodigo.Domain.AssemblyInfo.cs
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\CasaDoCodigo.Domain.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\CasaDoCodigo.Domain.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\refint\CasaDoCodigo.Domain.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\CasaDoCodigo.Domain.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Domain\obj\Debug\net7.0\ref\CasaDoCodigo.Domain.dll

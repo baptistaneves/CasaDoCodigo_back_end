@@ -1,0 +1,17 @@
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\bin\Debug\net7.0\CasaDoCodigo.Infrastructure.deps.json
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\bin\Debug\net7.0\CasaDoCodigo.Infrastructure.runtimeconfig.json
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\bin\Debug\net7.0\CasaDoCodigo.Infrastructure.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\bin\Debug\net7.0\CasaDoCodigo.Infrastructure.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\bin\Debug\net7.0\CasaDoCodigo.Domain.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\bin\Debug\net7.0\CasaDoCodigo.Domain.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.csproj.AssemblyReference.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.AssemblyInfoInputs.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.AssemblyInfo.cs
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.csproj.CopyComplete
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\refint\CasaDoCodigo.Infrastructure.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\CasaDoCodigo.Infrastructure.genruntimeconfig.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Infrastructure\obj\Debug\net7.0\ref\CasaDoCodigo.Infrastructure.dll

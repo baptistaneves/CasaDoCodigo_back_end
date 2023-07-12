@@ -1,0 +1,17 @@
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\bin\Debug\net7.0\CasaDoCodigo.Application.deps.json
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\bin\Debug\net7.0\CasaDoCodigo.Application.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\bin\Debug\net7.0\CasaDoCodigo.Application.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\bin\Debug\net7.0\CasaDoCodigo.Domain.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\bin\Debug\net7.0\CasaDoCodigo.Infrastructure.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\bin\Debug\net7.0\CasaDoCodigo.Domain.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\bin\Debug\net7.0\CasaDoCodigo.Infrastructure.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.csproj.AssemblyReference.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.AssemblyInfoInputs.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.AssemblyInfo.cs
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.csproj.CopyComplete
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\refint\CasaDoCodigo.Application.dll
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\CasaDoCodigo.Application.pdb
+D:\Projectos\Web\desafios\CasaDoCodigo\src\CasaDoCodigo.Application\obj\Debug\net7.0\ref\CasaDoCodigo.Application.dll
